@@ -8,7 +8,7 @@ Lightweight SSL/TLS security scanner for Termux & Kali Linux.
 
 ```bash
 # Download
-wget https://raw.githubusercontent.com/yourusername/pysslscan/main/pysslscan.py
+wget https://raw.githubusercontent.com/MrMercerCyberSec/pysslscan.py/main/pysslscan.py
 
 # Run
 python pysslscan.py example.com
